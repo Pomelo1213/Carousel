@@ -1,0 +1,16 @@
+.imgs{
+    display: flex;
+    align-items: flex-start;
+    transition: all 1s
+  }
+  
+  .window{
+  
+    width: 300px;
+    overflow: hidden;
+  }
+  
+  .red{
+    color: red
+  }
+  
